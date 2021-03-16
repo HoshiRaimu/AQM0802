@@ -71,7 +71,6 @@ void main(void) {
     // LCD表示位置を左上に設定
     lcdLocateCursor(1, 1);
     printf("Hello");
-    
     lcdLocateCursor(1, 2);
     printf("World");
  
